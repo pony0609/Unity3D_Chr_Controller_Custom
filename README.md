@@ -1,7 +1,7 @@
 # Unity3D_Chr_Controller_Custom
 In Unity3D, apply free 3rdController from UnityAssetsStore to customized character avatar and add new custom animation with input detect, including new camera with collision 
 
-Q: What contained in this pack? A: A custom character with basic Controller and Weapon System which can Draw/Sheath with [R]
+Q: What is contained in the pack? A: A custom character with basic Controller and Weapon System which can Draw/Sheath with [R]
 
 The project and assets is available in # Unity 2022.3.14f but should suitable after # Unity 2020.
 

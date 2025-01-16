@@ -7,6 +7,6 @@ Project use Standard built-in render pipeline ( Specially check if your project 
 
 This project is a sample how to apply controller to custom character , and further more add custom animation and input in animation tree
 
-Every step is mention in the powerpoint file , plz let me know if anything went wrong
+Every step is mention in the powerpoint file[https://docs.google.com/presentation/d/1oIyziVjUqsG1_TdPH3rAGRBIiCDniQm2M3LT4pD-ovI/edit?usp=sharing] , plz let me know if anything went wrong
 
 I only own the personal license of the assets , use it for personal practice only
